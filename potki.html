@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sklep Polska133</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #1e1e1e;
+      color: #fff;
+      text-align: center;
+      padding: 30px;
+    }
+    h1 {
+      margin-bottom: 40px;
+    }
+    .potion {
+      border-radius: 12px;
+      margin: 10px auto;
+      padding: 15px;
+      width: 300px;
+      color: white;
+      font-weight: bold;
+      box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Sklep Polska133</h1>
+
+  <div class="potion" style="background-color: #e74c3c;">Mikstura Leczenia</div>
+  <div class="potion" style="background-color: #8e44ad;">Mikstura Niewidzialności</div>
+  <div class="potion" style="background-color: #3498db;">Mikstura Oddychania pod Wodą</div>
+  <div class="potion" style="background-color: #27ae60;">Mikstura Siły</div>
+  <div class="potion" style="background-color: #f39c12;">Mikstura Ognistej Odporności</div>
+  <div class="potion" style="background-color: #1abc9c;">Mikstura Szybkości</div>
+  <div class="potion" style="background-color: #d35400;">Mikstura Skoku</div>
+  <div class="potion" style="background-color: #34495e;">Mikstura Spowolnienia</div>
+  <div class="potion" style="background-color: #c0392b;">Mikstura Szkody</div>
+  <div class="potion" style="background-color: #7f8c8d;">Mikstura Regeneracji</div>
+  <div class="potion" style="background-color: #9b59b6;">Mikstura Widzenia w Ciemności</div>
+  <div class="potion" style="background-color: #ff5e57;">Mikstura Natychmiastowego Leczenia</div>
+  <div class="potion" style="background-color: #a93226;">Mikstura Natychmiastowych Obrażeń</div>
+  <div class="potion" style="background-color: #2ecc71;">Mikstura Zatrucia</div>
+
+</body>
+</html>
